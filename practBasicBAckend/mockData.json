@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "first_name": "Ambrose",
+    "last_name": "MacGorley",
+    "email": "amacgorley0@purevolume.com",
+    "gender": "Male",
+    "job_title": "Sales Associate"
+  },
+  {
+    "id": 2,
+    "first_name": "Cello",
+    "last_name": "Gullifant",
+    "email": "cgullifant1@apple.com",
+    "gender": "Male",
+    "job_title": "Nurse Practicioner"
+  },
+  {
+    "id": 3,
+    "first_name": "Lemuel",
+    "last_name": "Wohler",
+    "email": "lwohler2@a8.net",
+    "gender": "Male",
+    "job_title": "Structural Engineer"
+  },
+  {
+    "id": 4,
+    "first_name": "Stephanus",
+    "last_name": "Glencrosche",
+    "email": "sglencrosche3@livejournal.com",
+    "gender": "Male",
+    "job_title": "Assistant Manager"
+  },
+  {
+    "id": 5,
+    "first_name": "Eric",
+    "last_name": "Lidgely",
+    "email": "elidgely4@cdbaby.com",
+    "gender": "Male",
+    "job_title": "Developer IV"
+  },
+  {
+    "id": 6,
+    "first_name": "Kellina",
+    "last_name": "Emanulsson",
+    "email": "kemanulsson5@wordpress.org",
+    "gender": "Female",
+    "job_title": "Systems Administrator II"
+  },
+  {
+    "id": 7,
+    "first_name": "Verine",
+    "last_name": "Livzey",
+    "email": "vlivzey6@qq.com",
+    "gender": "Female",
+    "job_title": "Geologist IV"
+  },
+  {
+    "id": 8,
+    "first_name": "Lynn",
+    "last_name": "Loudyan",
+    "email": "lloudyan7@tinypic.com",
+    "gender": "Female",
+    "job_title": "Analog Circuit Design manager"
+  },
+  {
+    "id": 9,
+    "first_name": "Stacy",
+    "last_name": "Houlston",
+    "email": "shoulston8@feedburner.com",
+    "gender": "Polygender",
+    "job_title": "Environmental Specialist"
+  },
+  {
+    "id": 10,
+    "first_name": "Bartram",
+    "last_name": "Sterricker",
+    "email": "bsterricker9@ebay.com",
+    "gender": "Male",
+    "job_title": "Marketing Assistant"
+  },
+  {
+    "first_name": "donald",
+    "last_name": "lun",
+    "email": "aalooss@gmail.hhh",
+    "gender": "gey",
+    "job_title": "nurse",
+    "id": 11
+  },
+  {
+    "first_name": "tuump",
+    "last_name": "obama",
+    "email": "aalooss@gmail.hhh",
+    "gender": "lol",
+    "job_title": "nurse",
+    "id": 12
+  },
+  {
+    "first_name": "nano ",
+    "last_name": "bite",
+    "email": "chuuuus@gmail.hhh",
+    "gender": "male",
+    "job_title": "baba",
+    "id": 13
+  }
+]
