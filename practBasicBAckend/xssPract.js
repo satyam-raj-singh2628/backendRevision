@@ -25,8 +25,8 @@ const server = http.createServer((req, res) => {
         </style>
       </head>
       <body>
-        <h1>💬 Public Comment Board</h1>
-        <p style="color: red;">⚠️ This site is intentionally vulnerable for learning!</p>
+        <h1> Public Comment Board</h1>
+        <p style="color: red;"> This site is intentionally vulnerable for learning!</p>
         
         <h2>Post a Comment:</h2>
         <form action="/add-comment" method="GET">
@@ -50,7 +50,7 @@ const server = http.createServer((req, res) => {
         </div>
 
         <hr>
-        <h3>🎯 Try These XSS Attacks:</h3>
+        <h3> Try These XSS Attacks:</h3>
         <p><strong>Attack 1 - Alert Box:</strong></p>
         <code>&lt;script&gt;alert('XSS!')&lt;/script&gt;</code>
         
